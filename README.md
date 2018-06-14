@@ -1,3 +1,3 @@
 # Documents
 
-![](/Logo.png)
+![](/Logo_small.png)
